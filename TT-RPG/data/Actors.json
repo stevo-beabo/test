@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"battlerName":"dwarf-armsmen","characterIndex":0,"characterName":"dwarf-armsmen","classId":1,"equips":[2,2,9,10,11,12],"faceIndex":0,"faceName":"Dwarf-Armsmen","traits":[{"code":22,"dataId":6,"value":1}],"initialLevel":1,"maxLevel":20,"name":"Harold","nickname":"Harry","note":"<battle command: skill_type 1 />\n<battle command: skill_type 2 />\n<battle command: item />","profile":"Race: Dwarf\n"},
+{"id":2,"battlerName":"halfling-rogue","characterIndex":0,"characterName":"halfling-rogue","classId":2,"equips":[4,1,6,7,8,12],"faceIndex":0,"faceName":"halfling-rogue","traits":[],"initialLevel":1,"maxLevel":20,"name":"Therese","nickname":"Terry","note":"<battle command: skill_type 1 />\n<battle command: skill_type 2 />\n<battle command: item />","profile":"Race: Halfling"},
+{"id":3,"battlerName":"Actor3_8","characterIndex":7,"characterName":"Actor3","classId":3,"equips":[6,0,3,4,5,13],"faceIndex":7,"faceName":"Actor3","traits":[],"initialLevel":1,"maxLevel":20,"name":"Marsha","nickname":"Shasha","note":"<battle command: skill_type 1 />\n<battle command: skill_type 3 />\n<battle command: item />","profile":"Race: Mortal"},
+{"id":4,"battlerName":"Wild-Elf-Spiritualist","characterIndex":0,"characterName":"Wild-Elf-Spiritualist","classId":4,"equips":[7,0,6,7,8,13],"faceIndex":0,"faceName":"Wild-Elf-Spiritualist","traits":[],"initialLevel":1,"maxLevel":20,"name":"Lucius","nickname":"","note":"<battle command: skill_type 1 />\n<battle command: skill_type 3 />\n<battle command: item />","profile":"Race: Wild Elf"}
+]
